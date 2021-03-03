@@ -1,2 +1,3 @@
 # Small-Javascript-Projects
-1.Task-List:add/remove tasks, saved in LSs
+1.Task-List:add/remove tasks, saved in LS
+
